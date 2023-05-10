@@ -1,7 +1,7 @@
 package com.enfusesolutions.newsapi.service;
 
-import com.enfusesolutions.newsapi.ApiException;
-import com.enfusesolutions.newsapi.ApplicationException;
+import com.enfusesolutions.newsapi.excptions.ApiException;
+import com.enfusesolutions.newsapi.excptions.ApplicationException;
 import com.enfusesolutions.newsapi.dto.Article;
 import com.enfusesolutions.newsapi.dto.SourceApiResponse;
 import com.enfusesolutions.newsapi.properties.ApiProperties;

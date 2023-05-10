@@ -1,4 +1,4 @@
-package com.enfusesolutions.newsapi;
+package com.enfusesolutions.newsapi.excptions;
 
 import lombok.Getter;
 

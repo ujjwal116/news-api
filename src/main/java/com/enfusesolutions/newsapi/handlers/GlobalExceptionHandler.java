@@ -1,6 +1,8 @@
-package com.enfusesolutions.newsapi;
+package com.enfusesolutions.newsapi.handlers;
 
 import com.enfusesolutions.newsapi.dto.ErrorResponse;
+import com.enfusesolutions.newsapi.excptions.ApiException;
+import com.enfusesolutions.newsapi.excptions.ApplicationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.MissingServletRequestParameterException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
