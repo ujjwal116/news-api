@@ -1,0 +1,4 @@
+api:
+  hostUrl: https://newsapi.org/v2/everything
+  maxResults: 5
+  apiKey: someKey

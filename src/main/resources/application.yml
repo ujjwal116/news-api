@@ -1,0 +1,10 @@
+
+server:
+  port: 8080
+api:
+  hostUrl: https://newsapi.org/v2/everything
+  maxResults: 5
+  apiKey: ${apiKey}
+logging:
+  level:
+    com.enfusesolutions: DEBUG
